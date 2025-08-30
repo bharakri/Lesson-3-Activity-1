@@ -1,6 +1,4 @@
-kritika = 1
-print(type(kritika))
-kritika = 1.5
-print(type(kritika))
-kritika = "hello"
-print(type(kritika))
+kritika = 5
+print(f"{float(kritika)} : {type(kritika)}")
+kritika = 7
+print(f"{str(kritika)} : {type(kritika)}") 
